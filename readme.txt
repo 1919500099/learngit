@@ -14,4 +14,8 @@ creating a new branch is quick and simple.
 >>>>>>> featurel
 
 
+<<<<<<< Updated upstream
 git is a free software.
+=======
+xii
+>>>>>>> Stashed chs
